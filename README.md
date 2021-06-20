@@ -29,7 +29,7 @@ Tareas:
 - Generar el modelo de la aplicación usando las entidades descritas.
 - Activar la interfaz de administración de la aplicación de Django.
 - Ingresar datos a las entidades.
-- Generar una vista que liste las parroquias y sus parroquias
+- Generar una vista que liste las parroquias y sus barrios
 - Generar una vista que liste los barrios
 - Generar un formulario que cree una parroquia
 - Generar un formulario que cree un barrio de una parroquia
